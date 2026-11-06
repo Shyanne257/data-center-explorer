@@ -1,0 +1,97 @@
+{
+ "threshold": 10,
+ "tti": 1.27,
+ "k": 0.435,
+ "bounds": [
+  -97.00699,
+  32.60386,
+  -96.5183,
+  32.98724
+ ],
+ "summary": {
+  "off": {
+   "All": {
+    "population": 1243201,
+    "n_block_groups": 800,
+    "pop_within_threshold": 858510,
+    "pct_within_threshold": 69.1,
+    "median_minutes": 7.9,
+    "pop_weighted_mean_minutes": 8.3
+   },
+   "Higher": {
+    "population": 340281,
+    "n_block_groups": 247,
+    "pop_within_threshold": 261126,
+    "pct_within_threshold": 76.7,
+    "median_minutes": 7.4,
+    "pop_weighted_mean_minutes": 7.6
+   },
+   "Lower": {
+    "population": 421305,
+    "n_block_groups": 248,
+    "pop_within_threshold": 284795,
+    "pct_within_threshold": 67.6,
+    "median_minutes": 8.2,
+    "pop_weighted_mean_minutes": 8.7
+   },
+   "Middle": {
+    "population": 420568,
+    "n_block_groups": 247,
+    "pop_within_threshold": 266348,
+    "pct_within_threshold": 63.3,
+    "median_minutes": 8.6,
+    "pop_weighted_mean_minutes": 8.6
+   },
+   "Unknown": {
+    "population": 61047,
+    "n_block_groups": 58,
+    "pop_within_threshold": 46241,
+    "pct_within_threshold": 75.7,
+    "median_minutes": 7.8,
+    "pop_weighted_mean_minutes": 7.3
+   }
+  },
+  "peak": {
+   "All": {
+    "population": 1243201,
+    "n_block_groups": 800,
+    "pop_within_threshold": 553081,
+    "pct_within_threshold": 44.5,
+    "median_minutes": 10.2,
+    "pop_weighted_mean_minutes": 10.7
+   },
+   "Higher": {
+    "population": 340281,
+    "n_block_groups": 247,
+    "pop_within_threshold": 187854,
+    "pct_within_threshold": 55.2,
+    "median_minutes": 9.2,
+    "pop_weighted_mean_minutes": 9.6
+   },
+   "Lower": {
+    "population": 421305,
+    "n_block_groups": 248,
+    "pop_within_threshold": 162093,
+    "pct_within_threshold": 38.5,
+    "median_minutes": 10.7,
+    "pop_weighted_mean_minutes": 11.2
+   },
+   "Middle": {
+    "population": 420568,
+    "n_block_groups": 247,
+    "pop_within_threshold": 171852,
+    "pct_within_threshold": 40.9,
+    "median_minutes": 11,
+    "pop_weighted_mean_minutes": 11.1
+   },
+   "Unknown": {
+    "population": 61047,
+    "n_block_groups": 58,
+    "pop_within_threshold": 31282,
+    "pct_within_threshold": 51.2,
+    "median_minutes": 9.4,
+    "pop_weighted_mean_minutes": 9.5
+   }
+  }
+ }
+}
